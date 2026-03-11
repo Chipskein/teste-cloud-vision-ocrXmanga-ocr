@@ -1,0 +1,3 @@
+[submodule "libs/manga-ocr"]
+	path = libs/manga-ocr
+	url = git@github.com:kha-white/manga-ocr.git
