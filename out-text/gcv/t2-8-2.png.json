@@ -1,0 +1,873 @@
+{
+  "responses": [
+    {
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "私のやること\nじゃねえだろ!",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 24,
+                "y": 5
+              },
+              {
+                "x": 69,
+                "y": 5
+              },
+              {
+                "x": 69,
+                "y": 162
+              },
+              {
+                "x": 24,
+                "y": 162
+              }
+            ]
+          }
+        },
+        {
+          "description": "私",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 49,
+                "y": 46
+              },
+              {
+                "x": 68,
+                "y": 46
+              },
+              {
+                "x": 68,
+                "y": 66
+              },
+              {
+                "x": 49,
+                "y": 66
+              }
+            ]
+          }
+        },
+        {
+          "description": "の",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 49,
+                "y": 68
+              },
+              {
+                "x": 68,
+                "y": 68
+              },
+              {
+                "x": 68,
+                "y": 84
+              },
+              {
+                "x": 49,
+                "y": 84
+              }
+            ]
+          }
+        },
+        {
+          "description": "やる",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 49,
+                "y": 86
+              },
+              {
+                "x": 68,
+                "y": 86
+              },
+              {
+                "x": 68,
+                "y": 125
+              },
+              {
+                "x": 49,
+                "y": 125
+              }
+            ]
+          }
+        },
+        {
+          "description": "こと",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 49,
+                "y": 128
+              },
+              {
+                "x": 68,
+                "y": 128
+              },
+              {
+                "x": 68,
+                "y": 162
+              },
+              {
+                "x": 49,
+                "y": 162
+              }
+            ]
+          }
+        },
+        {
+          "description": "じゃ",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 25,
+                "y": 5
+              },
+              {
+                "x": 44,
+                "y": 5
+              },
+              {
+                "x": 44,
+                "y": 43
+              },
+              {
+                "x": 25,
+                "y": 43
+              }
+            ]
+          }
+        },
+        {
+          "description": "ねえ",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 25,
+                "y": 45
+              },
+              {
+                "x": 44,
+                "y": 45
+              },
+              {
+                "x": 43,
+                "y": 85
+              },
+              {
+                "x": 24,
+                "y": 85
+              }
+            ]
+          }
+        },
+        {
+          "description": "だろ",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 24,
+                "y": 86
+              },
+              {
+                "x": 43,
+                "y": 86
+              },
+              {
+                "x": 42,
+                "y": 126
+              },
+              {
+                "x": 23,
+                "y": 126
+              }
+            ]
+          }
+        },
+        {
+          "description": "!",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 24,
+                "y": 127
+              },
+              {
+                "x": 43,
+                "y": 127
+              },
+              {
+                "x": 43,
+                "y": 142
+              },
+              {
+                "x": 24,
+                "y": 142
+              }
+            ]
+          }
+        }
+      ],
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja",
+                  "confidence": 1
+                }
+              ]
+            },
+            "width": 70,
+            "height": 163,
+            "blocks": [
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 24,
+                      "y": 5
+                    },
+                    {
+                      "x": 69,
+                      "y": 5
+                    },
+                    {
+                      "x": 69,
+                      "y": 162
+                    },
+                    {
+                      "x": 24,
+                      "y": 162
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 48,
+                          "y": 46
+                        },
+                        {
+                          "x": 68,
+                          "y": 46
+                        },
+                        {
+                          "x": 69,
+                          "y": 162
+                        },
+                        {
+                          "x": 49,
+                          "y": 162
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja",
+                              "confidence": 1
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 49,
+                              "y": 46
+                            },
+                            {
+                              "x": 68,
+                              "y": 46
+                            },
+                            {
+                              "x": 68,
+                              "y": 66
+                            },
+                            {
+                              "x": 49,
+                              "y": 66
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 49,
+                                  "y": 46
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 46
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 66
+                                },
+                                {
+                                  "x": 49,
+                                  "y": 66
+                                }
+                              ]
+                            },
+                            "text": "私"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja",
+                              "confidence": 1
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 49,
+                              "y": 68
+                            },
+                            {
+                              "x": 68,
+                              "y": 68
+                            },
+                            {
+                              "x": 68,
+                              "y": 84
+                            },
+                            {
+                              "x": 49,
+                              "y": 84
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 49,
+                                  "y": 68
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 68
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 84
+                                },
+                                {
+                                  "x": 49,
+                                  "y": 84
+                                }
+                              ]
+                            },
+                            "text": "の"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja",
+                              "confidence": 1
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 49,
+                              "y": 86
+                            },
+                            {
+                              "x": 68,
+                              "y": 86
+                            },
+                            {
+                              "x": 68,
+                              "y": 125
+                            },
+                            {
+                              "x": 49,
+                              "y": 125
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 49,
+                                  "y": 86
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 86
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 105
+                                },
+                                {
+                                  "x": 49,
+                                  "y": 105
+                                }
+                              ]
+                            },
+                            "text": "や"
+                          },
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 49,
+                                  "y": 107
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 107
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 125
+                                },
+                                {
+                                  "x": 49,
+                                  "y": 125
+                                }
+                              ]
+                            },
+                            "text": "る"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja",
+                              "confidence": 1
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 49,
+                              "y": 128
+                            },
+                            {
+                              "x": 68,
+                              "y": 128
+                            },
+                            {
+                              "x": 68,
+                              "y": 162
+                            },
+                            {
+                              "x": 49,
+                              "y": 162
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 49,
+                                  "y": 128
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 128
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 145
+                                },
+                                {
+                                  "x": 49,
+                                  "y": 145
+                                }
+                              ]
+                            },
+                            "text": "こ"
+                          },
+                          {
+                            "property": {
+                              "detectedBreak": {
+                                "type": "LINE_BREAK"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 49,
+                                  "y": 147
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 147
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 162
+                                },
+                                {
+                                  "x": 49,
+                                  "y": 162
+                                }
+                              ]
+                            },
+                            "text": "と"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 25,
+                          "y": 5
+                        },
+                        {
+                          "x": 45,
+                          "y": 5
+                        },
+                        {
+                          "x": 43,
+                          "y": 142
+                        },
+                        {
+                          "x": 23,
+                          "y": 142
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja",
+                              "confidence": 1
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 25,
+                              "y": 5
+                            },
+                            {
+                              "x": 44,
+                              "y": 5
+                            },
+                            {
+                              "x": 44,
+                              "y": 43
+                            },
+                            {
+                              "x": 25,
+                              "y": 43
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 25,
+                                  "y": 5
+                                },
+                                {
+                                  "x": 44,
+                                  "y": 5
+                                },
+                                {
+                                  "x": 44,
+                                  "y": 25
+                                },
+                                {
+                                  "x": 25,
+                                  "y": 25
+                                }
+                              ]
+                            },
+                            "text": "じ"
+                          },
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 25,
+                                  "y": 26
+                                },
+                                {
+                                  "x": 44,
+                                  "y": 26
+                                },
+                                {
+                                  "x": 44,
+                                  "y": 43
+                                },
+                                {
+                                  "x": 25,
+                                  "y": 43
+                                }
+                              ]
+                            },
+                            "text": "ゃ"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja",
+                              "confidence": 1
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 25,
+                              "y": 45
+                            },
+                            {
+                              "x": 44,
+                              "y": 45
+                            },
+                            {
+                              "x": 43,
+                              "y": 85
+                            },
+                            {
+                              "x": 24,
+                              "y": 85
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 25,
+                                  "y": 45
+                                },
+                                {
+                                  "x": 44,
+                                  "y": 45
+                                },
+                                {
+                                  "x": 44,
+                                  "y": 64
+                                },
+                                {
+                                  "x": 25,
+                                  "y": 64
+                                }
+                              ]
+                            },
+                            "text": "ね"
+                          },
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 25,
+                                  "y": 66
+                                },
+                                {
+                                  "x": 44,
+                                  "y": 66
+                                },
+                                {
+                                  "x": 44,
+                                  "y": 85
+                                },
+                                {
+                                  "x": 25,
+                                  "y": 85
+                                }
+                              ]
+                            },
+                            "text": "え"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja",
+                              "confidence": 1
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 24,
+                              "y": 86
+                            },
+                            {
+                              "x": 43,
+                              "y": 86
+                            },
+                            {
+                              "x": 42,
+                              "y": 126
+                            },
+                            {
+                              "x": 23,
+                              "y": 126
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 24,
+                                  "y": 86
+                                },
+                                {
+                                  "x": 43,
+                                  "y": 86
+                                },
+                                {
+                                  "x": 43,
+                                  "y": 103
+                                },
+                                {
+                                  "x": 24,
+                                  "y": 103
+                                }
+                              ]
+                            },
+                            "text": "だ"
+                          },
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 24,
+                                  "y": 107
+                                },
+                                {
+                                  "x": 43,
+                                  "y": 107
+                                },
+                                {
+                                  "x": 43,
+                                  "y": 126
+                                },
+                                {
+                                  "x": 24,
+                                  "y": 126
+                                }
+                              ]
+                            },
+                            "text": "ろ"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja",
+                              "confidence": 1
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 24,
+                              "y": 127
+                            },
+                            {
+                              "x": 43,
+                              "y": 127
+                            },
+                            {
+                              "x": 43,
+                              "y": 142
+                            },
+                            {
+                              "x": 24,
+                              "y": 142
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedBreak": {
+                                "type": "LINE_BREAK"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 24,
+                                  "y": 127
+                                },
+                                {
+                                  "x": 43,
+                                  "y": 127
+                                },
+                                {
+                                  "x": 43,
+                                  "y": 142
+                                },
+                                {
+                                  "x": 24,
+                                  "y": 142
+                                }
+                              ]
+                            },
+                            "text": "!"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "私のやること\nじゃねえだろ!"
+      }
+    }
+  ]
+}

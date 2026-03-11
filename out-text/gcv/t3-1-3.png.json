@@ -1,0 +1,190 @@
+{
+  "responses": [
+    {
+      "textAnnotations": [
+        {
+          "locale": "und",
+          "description": "Jo",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 87
+              },
+              {
+                "x": 57,
+                "y": 87
+              },
+              {
+                "x": 57,
+                "y": 131
+              },
+              {
+                "x": 21,
+                "y": 131
+              }
+            ]
+          }
+        },
+        {
+          "description": "Jo",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 56,
+                "y": 87
+              },
+              {
+                "x": 57,
+                "y": 131
+              },
+              {
+                "x": 22,
+                "y": 131
+              },
+              {
+                "x": 21,
+                "y": 88
+              }
+            ]
+          }
+        }
+      ],
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "width": 77,
+            "height": 132,
+            "blocks": [
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 56,
+                      "y": 87
+                    },
+                    {
+                      "x": 57,
+                      "y": 131
+                    },
+                    {
+                      "x": 22,
+                      "y": 131
+                    },
+                    {
+                      "x": 21,
+                      "y": 88
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 56,
+                          "y": 87
+                        },
+                        {
+                          "x": 57,
+                          "y": 131
+                        },
+                        {
+                          "x": 22,
+                          "y": 131
+                        },
+                        {
+                          "x": 21,
+                          "y": 88
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 56,
+                              "y": 87
+                            },
+                            {
+                              "x": 57,
+                              "y": 131
+                            },
+                            {
+                              "x": 22,
+                              "y": 131
+                            },
+                            {
+                              "x": 21,
+                              "y": 88
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 56,
+                                  "y": 87
+                                },
+                                {
+                                  "x": 57,
+                                  "y": 111
+                                },
+                                {
+                                  "x": 23,
+                                  "y": 112
+                                },
+                                {
+                                  "x": 22,
+                                  "y": 88
+                                }
+                              ]
+                            },
+                            "text": "J"
+                          },
+                          {
+                            "property": {
+                              "detectedBreak": {
+                                "type": "LINE_BREAK"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 56,
+                                  "y": 111
+                                },
+                                {
+                                  "x": 57,
+                                  "y": 131
+                                },
+                                {
+                                  "x": 23,
+                                  "y": 131
+                                },
+                                {
+                                  "x": 22,
+                                  "y": 112
+                                }
+                              ]
+                            },
+                            "text": "o"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "Jo"
+      }
+    }
+  ]
+}

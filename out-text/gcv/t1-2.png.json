@@ -1,0 +1,376 @@
+{
+  "responses": [
+    {
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "ギターボーカル",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 18,
+                "y": 24
+              },
+              {
+                "x": 31,
+                "y": 24
+              },
+              {
+                "x": 31,
+                "y": 128
+              },
+              {
+                "x": 18,
+                "y": 128
+              }
+            ]
+          }
+        },
+        {
+          "description": "ギター",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 18,
+                "y": 24
+              },
+              {
+                "x": 31,
+                "y": 24
+              },
+              {
+                "x": 31,
+                "y": 69
+              },
+              {
+                "x": 18,
+                "y": 69
+              }
+            ]
+          }
+        },
+        {
+          "description": "ボーカル",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 18,
+                "y": 70
+              },
+              {
+                "x": 31,
+                "y": 70
+              },
+              {
+                "x": 31,
+                "y": 128
+              },
+              {
+                "x": 18,
+                "y": 128
+              }
+            ]
+          }
+        }
+      ],
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja",
+                  "confidence": 1
+                }
+              ]
+            },
+            "width": 50,
+            "height": 150,
+            "blocks": [
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 18,
+                      "y": 24
+                    },
+                    {
+                      "x": 31,
+                      "y": 24
+                    },
+                    {
+                      "x": 31,
+                      "y": 128
+                    },
+                    {
+                      "x": 18,
+                      "y": 128
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 18,
+                          "y": 24
+                        },
+                        {
+                          "x": 31,
+                          "y": 24
+                        },
+                        {
+                          "x": 31,
+                          "y": 128
+                        },
+                        {
+                          "x": 18,
+                          "y": 128
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja",
+                              "confidence": 1
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 18,
+                              "y": 24
+                            },
+                            {
+                              "x": 31,
+                              "y": 24
+                            },
+                            {
+                              "x": 31,
+                              "y": 69
+                            },
+                            {
+                              "x": 18,
+                              "y": 69
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 18,
+                                  "y": 24
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 24
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 39
+                                },
+                                {
+                                  "x": 18,
+                                  "y": 39
+                                }
+                              ]
+                            },
+                            "text": "ギ"
+                          },
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 18,
+                                  "y": 40
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 40
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 54
+                                },
+                                {
+                                  "x": 18,
+                                  "y": 54
+                                }
+                              ]
+                            },
+                            "text": "タ"
+                          },
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 18,
+                                  "y": 56
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 56
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 69
+                                },
+                                {
+                                  "x": 18,
+                                  "y": 69
+                                }
+                              ]
+                            },
+                            "text": "ー"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja",
+                              "confidence": 1
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 18,
+                              "y": 70
+                            },
+                            {
+                              "x": 31,
+                              "y": 70
+                            },
+                            {
+                              "x": 31,
+                              "y": 128
+                            },
+                            {
+                              "x": 18,
+                              "y": 128
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 18,
+                                  "y": 70
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 70
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 84
+                                },
+                                {
+                                  "x": 18,
+                                  "y": 84
+                                }
+                              ]
+                            },
+                            "text": "ボ"
+                          },
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 18,
+                                  "y": 86
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 86
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 99
+                                },
+                                {
+                                  "x": 18,
+                                  "y": 99
+                                }
+                              ]
+                            },
+                            "text": "ー"
+                          },
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 18,
+                                  "y": 100
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 100
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 114
+                                },
+                                {
+                                  "x": 18,
+                                  "y": 114
+                                }
+                              ]
+                            },
+                            "text": "カ"
+                          },
+                          {
+                            "property": {
+                              "detectedBreak": {
+                                "type": "LINE_BREAK"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 18,
+                                  "y": 116
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 116
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 128
+                                },
+                                {
+                                  "x": 18,
+                                  "y": 128
+                                }
+                              ]
+                            },
+                            "text": "ル"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "ギターボーカル"
+      }
+    }
+  ]
+}

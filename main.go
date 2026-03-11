@@ -87,8 +87,8 @@ func main() {
 		log.Fatalln("Use GCV_API_KEY flag to set GOOGLE CLOUD VISION API")
 	}
 	apiKey := *apiKeyFlagPtr
-	pathImgs := "img-teste"
-	outTextPath := "out-text"
+	pathImgs := "img-teste/bubble-texts"
+	outTextPath := "out-text/gcv"
 	log.Printf("PathImgs: %s\n", pathImgs)
 	log.Printf("outTextPath: %s\n", outTextPath)
 	log.Printf("API KEY: %s\n", apiKey)

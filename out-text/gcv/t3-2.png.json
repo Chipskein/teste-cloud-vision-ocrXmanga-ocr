@@ -1,0 +1,167 @@
+{
+  "responses": [
+    {
+      "textAnnotations": [
+        {
+          "locale": "und",
+          "description": "退",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 23,
+                "y": 25
+              },
+              {
+                "x": 74,
+                "y": 25
+              },
+              {
+                "x": 74,
+                "y": 56
+              },
+              {
+                "x": 23,
+                "y": 56
+              }
+            ]
+          }
+        },
+        {
+          "description": "退",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 23,
+                "y": 26
+              },
+              {
+                "x": 74,
+                "y": 25
+              },
+              {
+                "x": 74,
+                "y": 55
+              },
+              {
+                "x": 23,
+                "y": 56
+              }
+            ]
+          }
+        }
+      ],
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "width": 94,
+            "height": 218,
+            "blocks": [
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 23,
+                      "y": 26
+                    },
+                    {
+                      "x": 74,
+                      "y": 25
+                    },
+                    {
+                      "x": 74,
+                      "y": 55
+                    },
+                    {
+                      "x": 23,
+                      "y": 56
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 23,
+                          "y": 26
+                        },
+                        {
+                          "x": 74,
+                          "y": 25
+                        },
+                        {
+                          "x": 74,
+                          "y": 55
+                        },
+                        {
+                          "x": 23,
+                          "y": 56
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 23,
+                              "y": 26
+                            },
+                            {
+                              "x": 74,
+                              "y": 25
+                            },
+                            {
+                              "x": 74,
+                              "y": 55
+                            },
+                            {
+                              "x": 23,
+                              "y": 56
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedBreak": {
+                                "type": "LINE_BREAK"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 23,
+                                  "y": 26
+                                },
+                                {
+                                  "x": 74,
+                                  "y": 25
+                                },
+                                {
+                                  "x": 74,
+                                  "y": 55
+                                },
+                                {
+                                  "x": 23,
+                                  "y": 56
+                                }
+                              ]
+                            },
+                            "text": "退"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "退"
+      }
+    }
+  ]
+}
